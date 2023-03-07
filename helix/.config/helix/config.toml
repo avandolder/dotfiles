@@ -1,0 +1,17 @@
+theme = "gruvbox"
+
+[editor]
+cursorline = true
+color-modes = true
+
+[editor.lsp]
+auto-signature-help = false
+
+[editor.cursor-shape]
+insert = "underline"
+
+[editor.whitespace.render]
+newline = "all"
+
+[editor.indent-guides]
+render = true
